@@ -14,3 +14,18 @@ D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\Elev
 D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb

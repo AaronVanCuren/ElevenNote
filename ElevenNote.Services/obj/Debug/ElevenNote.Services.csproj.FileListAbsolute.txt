@@ -14,3 +14,25 @@ D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\El
 D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 D:\AAA_DOCUMENTS\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
