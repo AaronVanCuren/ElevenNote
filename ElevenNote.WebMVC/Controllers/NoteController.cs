@@ -18,8 +18,8 @@ namespace ElevenNote.WebMVC.Controllers
         // GET: Note
         public ActionResult Index()
         {
-            var service = CreateNoteService();
-            var model = service.GetNotes();
+            var svc = CreateNoteService();
+            var model = svc.GetNotes();
             return View(model);
         }
 
@@ -36,9 +36,9 @@ namespace ElevenNote.WebMVC.Controllers
             if (!ModelState.IsValid)
                 return View(note);
 
-            var service = CreateNoteService();
+            var svc = CreateNoteService();
 
-            if (service.CreateNote(note))
+            if (svc.CreateNote(note))
             {
                 TempData["SaveResult"] = "Your note was created.";
                 return RedirectToAction("Index");
@@ -59,8 +59,8 @@ namespace ElevenNote.WebMVC.Controllers
 
         public ActionResult Edit(int id)
         {
-            var service = CreateNoteService();
-            var detail = service.GetNoteById(id);
+            var svc = CreateNoteService();
+            var detail = svc.GetNoteById(id);
             var model =
                 new NoteEdit
                 {
@@ -84,9 +84,9 @@ namespace ElevenNote.WebMVC.Controllers
                 return View(model);
             }
 
-            var service = CreateNoteService();
+            var svc = CreateNoteService();
 
-            if (service.UpdateNote(model))
+            if (svc.UpdateNote(model))
             {
                 TempData["SaveResult"] = "Your note was updated.";
                 return RedirectToAction("Index");
@@ -96,11 +96,31 @@ namespace ElevenNote.WebMVC.Controllers
             return View(model);
         }
 
+        [ActionName("Delete")]
+        public ActionResult Delete(int id)
+        {
+            var svc = CreateNoteService();
+            var model = svc.GetNoteById(id);
+
+            return View(model);
+        }
+
+        [HttpPost]
+        [ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeletePost(int id)
+        {
+            var svc = CreateNoteService();
+            svc.DeleteNote(id);
+            TempData["SaveResult"] = "Your note was deleted";
+            return RedirectToAction("Index");
+        }
+
         private NoteService CreateNoteService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
-            var service = new NoteService(userId);
-            return service;
+            var svc = new NoteService(userId);
+            return svc;
         }
     }
 }

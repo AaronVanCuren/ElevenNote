@@ -50,33 +50,33 @@ namespace ElevenNote.Services
 
         public NoteDetail GetNoteById(int id)
         {
-            var entity = _db.Notes.Single(e => e.NoteId == id && e.OwnerId == _userId);
+            var note = _db.Notes.Single(e => e.NoteId == id && e.OwnerId == _userId);
             return
                 new NoteDetail
                 {
-                    NoteId = entity.NoteId,
-                    Title = entity.Title,
-                    Content = entity.Content,
-                    CreatedUtc = entity.CreatedUtc,
-                    ModifiedUtc = entity.ModifiedUtc
+                    NoteId = note.NoteId,
+                    Title = note.Title,
+                    Content = note.Content,
+                    CreatedUtc = note.CreatedUtc,
+                    ModifiedUtc = note.ModifiedUtc
                 };
         }
 
         public bool UpdateNote(NoteEdit model)
         {
-            var entity = _db.Notes.Single(e => e.NoteId == model.NoteId && e.OwnerId == _userId);
+            var note = _db.Notes.Single(e => e.NoteId == model.NoteId && e.OwnerId == _userId);
 
-            entity.Title = model.Title;
-            entity.Content = model.Content;
-            entity.ModifiedUtc = DateTimeOffset.UtcNow;
+            note.Title = model.Title;
+            note.Content = model.Content;
+            note.ModifiedUtc = DateTimeOffset.UtcNow;
 
             return _db.SaveChanges() == 1;
         }
 
         public bool DeleteNote(int noteId)
         {
-            var entity = _db.Notes.Single(e => e.NoteId == noteId && e.OwnerId == _userId);
-            _db.Notes.Remove(entity);
+            var note = _db.Notes.Single(e => e.NoteId == noteId && e.OwnerId == _userId);
+            _db.Notes.Remove(note);
             return _db.SaveChanges() == 1;
         }
     }
