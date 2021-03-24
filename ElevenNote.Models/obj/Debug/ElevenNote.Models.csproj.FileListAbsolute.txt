@@ -25,6 +25,7 @@ D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
