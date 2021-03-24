@@ -67,3 +67,4 @@ D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Data\obj\Debug\E
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache

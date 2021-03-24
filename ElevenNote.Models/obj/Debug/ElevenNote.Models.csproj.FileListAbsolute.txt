@@ -29,3 +29,4 @@ D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+D:\ElevenFiftyProjects\Visual Studio 2019\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
